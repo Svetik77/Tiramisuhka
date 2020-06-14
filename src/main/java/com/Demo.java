@@ -1,5 +1,4 @@
 package com;
-package moc;
 public class Demo {
 
 	public static void main(String[] args) {

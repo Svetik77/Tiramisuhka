@@ -13,6 +13,8 @@ public class Demo {
 		int b = 41;
 		int res = a + b;
 		System.out.println(res);
+		
+		String haha = "haha";
 	}
 
 }

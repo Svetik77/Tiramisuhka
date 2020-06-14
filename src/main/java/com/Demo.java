@@ -6,6 +6,7 @@ public class Demo {
 		for (int i = 0; i < 5; i++) {
 			System.out.println("frosh");	
 			System.out.println("ich will trinken");	
+			System.out.println("ich will tanzen");	
 		}
 	}
 
